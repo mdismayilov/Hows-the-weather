@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">How\'s the Weather</string>
+    <string name="background_image">Background Image</string>
+    <string name="search">search</string>
+    <string name="e_g_new_york">e.g., New York</string>
+    <string name="icon">icon</string>
+    <string name="back">back</string>
+    <string name="n_a">N/A</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="support">Support</string>
+</resources>
